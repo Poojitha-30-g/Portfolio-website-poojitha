@@ -1,15 +1,42 @@
-# To-Do List Web App
-A simple JavaScript-based to-do list application.
+# Portfolio Website - G. Siva Sai Poojitha
 
-## Features:
-- Add tasks
-- Remove tasks by clicking
-- Clean UI design
+A simple personal portfolio website built using *HTML* and *CSS* to showcase my skills, projects, and personal information.
 
-## Technologies:
-- HTML
-- CSS
-- JavaScript
+---
 
-## How to Run:
-Open index.html in any browser.
+## 📄 Overview
+
+This portfolio website contains:
+
+- About Me  
+- Skills  
+- Projects I have built  
+- Clean and minimal design  
+
+---
+
+## 🛠 Technologies Used
+
+- *HTML5*  
+- *CSS3*
+
+---
+
+## 📂 Files in this Repository
+
+- portfolio.html – Main webpage  
+- portfolio.css – Stylesheet for the website  
+- README.md – Project description  
+
+---
+
+## 🚀 How to View
+
+1. Download or clone this repository  
+2. Open portfolio.html in any browser  
+
+---
+
+## ⭐ Purpose
+
+This project was created to practice front-end development and build a simple personal portfolio page.
